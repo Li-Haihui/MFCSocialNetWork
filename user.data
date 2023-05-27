@@ -1,0 +1,34 @@
+[
+    {
+        "address": "sagg",
+        "birthdate": "7-24",
+        "contacts": [
+            "wang",
+            "zhao"
+        ],
+        "groups": null,
+        "messages": null,
+        "name": "li",
+        "phone": "123456"
+    },
+    {
+        "address": "sagg",
+        "birthdate": "7-24",
+        "contacts": [
+            "zhao"
+        ],
+        "groups": null,
+        "messages": null,
+        "name": "wang",
+        "phone": "123456"
+    },
+    {
+        "address": "sagg",
+        "birthdate": "7-24",
+        "contacts": null,
+        "groups": null,
+        "messages": null,
+        "name": "zhao",
+        "phone": "123456"
+    }
+]
